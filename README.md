@@ -1,7 +1,3 @@
-# fix-jenkins-lab
-this will help you fix the lab issues in on going jenkins cicd class 
-
-
 # Jenkins Issue Fixer
 
 Welcome to Jenkins Issue Fixer! This repository contains a script to fix various issues commonly encountered in Jenkins setups.
@@ -20,14 +16,14 @@ To get started with fixing Jenkins issues, follow these steps:
     cd fix-jenkins-lab
     ```
 
-3. **Make the Script Executable**:
+3. **Make the Script Executable with sudo**:
     ```bash
-    chmod +x fix.sh
+    sudo chmod +x fix.sh
     ```
 
-4. **Run the Shell Script**:
+4. **Run the Shell Script with sudo**:
     ```bash
-    sh fix.sh
+    sudo sh fix.sh
     ```
 
 ## About the Script
